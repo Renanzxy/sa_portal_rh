@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": "7dee",
+      "_id": 0,
+      "_nome": "",
+      "_foto": "",
+      "_descricao": "",
+      "_salario": 0
+    }
+  ],
+  "curriculos": [
+    {
+      "id": "d4f1",
+      "_id": 0,
+      "_nome": "",
+      "_idade": 0,
+      "_telefone": "",
+      "_email": "",
+      "_descricao": ""
+    },
+    {
+      "id": "a680",
+      "_id": 0,
+      "_nome": "",
+      "_idade": 0,
+      "_telefone": "",
+      "_email": "",
+      "_descricao": ""
+    }
+  ]
+}
